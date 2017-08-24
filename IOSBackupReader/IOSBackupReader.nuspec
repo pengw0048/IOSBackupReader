@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Peng Wang</authors>
+    <owners>Peng Wang</owners>
+    <projectUrl>https://github.com/tiancaihb/IOSBackupReader</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Read iTunes backup of iOS 10 devices.</description>
+    <releaseNotes>Initial commit.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>iOS iTunes backup iPhone iPad</tags>
+  </metadata>
+</package>
